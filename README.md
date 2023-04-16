@@ -3,5 +3,5 @@ Projeto desenvolvido durante o treinamento de HTML e CSS do Alura, com a instrut
 ## Ferramentas Utilizadas
 - HTML
 - CSS
-## 🛠️ Abrir e rodar o projeto
+## Visualizar o projeto
  [alura-plus](https://mariliaalines.github.io/alura-plus/#)
